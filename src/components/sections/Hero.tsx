@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
           {[
             { label: 'Operations', value: '3 Streams' },
             { label: 'AWB Types', value: 'Dual (In-house + Airline)' },
-            { label: 'Platform', value: 'Frappe v15 / ERPNext' },
+            { label: 'Platform', value: 'Frappe v16 / ERPNext' },
             { label: 'Region', value: 'Papua New Guinea' },
           ].map((s) => (
             <div key={s.label} className="bg-white/10 backdrop-blur-sm rounded-lg p-4 border border-white/20">

@@ -53,8 +53,8 @@ const Footer: React.FC = () => {
           <div>
             <div className="font-semibold text-white mb-3">Tech Stack</div>
             <ul className="space-y-2 text-sm">
-              <li>Frappe Framework v15</li>
-              <li>ERPNext v15</li>
+              <li>Frappe Framework v16</li>
+              <li>ERPNext v16</li>
               <li>MariaDB / Redis</li>
               <li>bwip-js · qrcode</li>
               <li>Zebra ZPL II</li>
