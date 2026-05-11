@@ -26,7 +26,7 @@ const Architecture: React.FC = () => {
       icon: Shield,
       title: 'Integration Layer',
       color: 'bg-purple-50 text-purple-700 border-purple-200',
-      items: ['FedEx Web Services', 'Air Niugini Cargo API', 'PNG Customs (PNGCS)', 'Payment Gateway'],
+      items: ['FedEx Web Services', 'Airline Cargo APIs', 'PNG Customs (PNGCS)', 'Payment Gateway'],
     },
     {
       icon: Database,
@@ -38,7 +38,7 @@ const Architecture: React.FC = () => {
       icon: Smartphone,
       title: 'Edge Devices',
       color: 'bg-slate-50 text-slate-700 border-slate-200',
-      items: ['Zebra ZT411 Printers', 'Honeywell Scanners', 'Driver Android Devices', 'Warehouse Tablets'],
+      items: ['Zebra ZT411 Printers', 'Honeywell Scanners', 'Driver Android Devices', 'Warehouse Tablets', 'Network Weighing Scale'],
     },
   ];
 
